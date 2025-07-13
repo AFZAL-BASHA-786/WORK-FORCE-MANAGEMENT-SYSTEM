@@ -1,3 +1,3 @@
 export const APP_CONSTANTS = {
-    TOKEN:"Token-Name"
+    REACT_E_COMMERCE_TOKEN:"react-e-commerce-token"
 }
